@@ -26,6 +26,11 @@ layout: page
                 <div class="caption pull-left" style="width:50%;">用户信息</div>
                 <div class="pull-right" style="width:50%;">
                     <a onclick="forAdmConsole()"><small>控制台</small></a>
+                    <script type="text/javascript">
+                        function forAdmConsole(){
+                            window.open('https://dev.imaicloud.com/adm/forConsole?user_id=adm','_blank');
+                        }
+                    </script>
                 </div>
             </div>
             <div class="portlet-body">
