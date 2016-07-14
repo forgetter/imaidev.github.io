@@ -409,3 +409,33 @@ a:visited { color: #205caa; }
     margin: 0 0 15px; }
 
 }
+
+##yanghy add 20160714 start
+.adm-block{
+  position: fixed;
+  top: 10%;
+  float: right;
+  right: 100px;
+  height:100px;
+  width:300px;
+}
+.col-md-12{
+  width:100%;
+}
+.portlet{
+  border: 1px solid #444;
+}
+.portlet-title{
+  border:none;
+  border-bottom:1px solid #333;
+  height: 40px;
+  width: 100%;
+}
+.portlet-body{
+  border:none;
+  width: 100%;
+}
+.portlet .caption{
+  font-weight: bold;
+  font-size: 16px;
+}
