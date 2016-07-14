@@ -410,7 +410,7 @@ a:visited { color: #205caa; }
 
 }
 
-##yanghy add 20160714 start
+/*yanghy add 20160714 start*/
 .adm-block{
   position: fixed;
   top: 10%;
@@ -439,3 +439,5 @@ a:visited { color: #205caa; }
   font-weight: bold;
   font-size: 16px;
 }
+
+/*yanghy add 20160714 end*/
