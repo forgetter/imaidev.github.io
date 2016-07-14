@@ -28,7 +28,7 @@ layout: page
                     <a onclick="forAdmConsole()"><small>控制台</small></a>
                     <script type="text/javascript">
                         function forAdmConsole(){
-                            window.open('https://dev.imaicloud.com/adm/forConsole?user_id=adm','_blank');
+                            window.open('https://dev.imaicloud.com/adm/console/forConsole?user_id=adm','_blank');
                         }
                     </script>
                 </div>
