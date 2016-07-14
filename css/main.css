@@ -423,11 +423,11 @@ a:visited { color: #205caa; }
   width:100%;
 }
 .portlet{
-  border: 1px solid #444;
+  border: 1px solid #e8e8e8;
 }
 .portlet-title{
   border:none;
-  border-bottom:1px solid #333;
+  border-bottom:1px solid #e8e8e8;
   height: 40px;
   width: 100%;
 }
@@ -435,9 +435,14 @@ a:visited { color: #205caa; }
   border:none;
   width: 100%;
 }
-.portlet .caption{
+.portlet-title .caption{
   font-weight: bold;
-  font-size: 16px;
+  font-size: 15px;
 }
-
+.pull-left{
+  float:left;
+}
+.pull-right{
+  float:right;
+}
 /*yanghy add 20160714 end*/
