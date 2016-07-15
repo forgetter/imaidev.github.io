@@ -23,8 +23,8 @@ layout: page
     <div class="col-md-12">
         <div class="portlet">
             <div class="portlet-title">
-                <div class="caption pull-left" style="width:50%;">#用户信息#</div>
-                <div class="pull-right" style="width:50%;">
+                <div class="caption pull-left" style="width:50%;">用户信息</div>
+                <div class="pull-right" style="width:50%;text-align:right;">
                     <a onclick="forAdmConsole()" style="cursor:pointer;">控制台</a>
                     <script type="text/javascript">
                         function forAdmConsole(){
