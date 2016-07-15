@@ -19,4 +19,23 @@ layout: page
 1. [平台概述](/doc/plat)
 2. [免费https证书](/doc/letsencrypt-https)
 
-layout: adm
+<div class="adm-block post">
+        <div class="portlet">
+          <header class="post-header">
+                <div class="pull-left" style="width:50%;">用户信息</div>
+                <div class="pull-right" style="width:50%;text-align:right;">
+                    <a onclick="forAdmConsole()" style="cursor:pointer;">控制台</a>
+                    <script type="text/javascript">
+                        function forAdmConsole(){
+                            window.open('https://dev.imaicloud.com/adm/console/forConsole?user_id=adm','_blank');
+                        }
+                    </script>
+                </div>
+          </header>
+          <article class="post-content">
+                <label class="caption">二级域名：<em id="adm-subdomain"></em></label>
+                <label class="caption">github账号：<em id="adm-github"></em></label>
+          </article>
+        </div>
+    </div>
+</div>
