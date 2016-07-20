@@ -28,9 +28,9 @@ layout: page
     <div class="col-md-12">
         <div class="portlet">
             <div class="portlet-title">
-                <div class="caption pull-left" style="width:50%;">用户:admin</div>
+                <div class="pull-left" style="width:50%;">用户:admin</div>
                 <div class="pull-right" style="width:50%;text-align:right;">
-                    <a onclick="forAdmConsole()" style="cursor:pointer;">ADM控制台</a>
+                    <a onclick="forAdmConsole()" style="cursor:pointer;">ADM控制台>></a>
                     <script type="text/javascript">
                         function forAdmConsole(){
                             window.open('https://fogray.github.io/?user_id=admin','_blank');
