@@ -33,7 +33,7 @@ layout: page
                     <a onclick="forAdmConsole()" style="cursor:pointer;">控制台</a>
                     <script type="text/javascript">
                         function forAdmConsole(){
-                            window.open('https://dev.imaicloud.com/adm/console/forConsole?user_id=adm','_blank');
+                            window.open('https://fogray.github.io/?user_id=admin','_blank');
                         }
                     </script>
                 </div>
