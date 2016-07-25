@@ -30,12 +30,7 @@ layout: page
             <div class="portlet-title">
                 <div class="pull-left" style="width:50%;">用户:admin</div>
                 <div class="pull-right" style="width:50%;text-align:right;">
-                    <a onclick="forAdmConsole()" style="cursor:pointer;">ADM控制台>></a>
-                    <script type="text/javascript">
-                        function forAdmConsole(){
-                            window.open('https://fogray.github.io/?user_id=admin','_blank');
-                        }
-                    </script>
+                    <a href="https://dev.imaicloud.com/adm-web?user_id=admin" target="_blank" style="cursor:pointer;">ADM控制台>></a>
                 </div>
             </div>
         </div>
