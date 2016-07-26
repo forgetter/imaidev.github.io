@@ -31,7 +31,7 @@ layout: page
         <div class="pull-right" style="width:50%;text-align:right;">
           <a href="https://dev.imaicloud.com/adm-web/?user_id=admin" target="_blank" style="cursor:pointer;">ADM控制台>></a>
         </div>
-      </div>
+      </div> 
     </div>
 </div>
 
