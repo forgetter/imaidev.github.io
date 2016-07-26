@@ -25,7 +25,6 @@ layout: page
 3. [css的例子(容器管理2)](http://dockerui2.imaiclouid.com)
 
 <div class="adm-block">
-  <div class="col-md-12">
     <div class="portlet">
       <div class="portlet-title">
         <div class="pull-left" style="width:50%;">用户:admin</div>
@@ -34,5 +33,4 @@ layout: page
         </div>
       </div>
     </div>
-  </div>
 </div>
