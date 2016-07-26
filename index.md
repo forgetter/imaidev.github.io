@@ -25,5 +25,5 @@ layout: page
 3. [css的例子(容器管理2)](http://dockerui2.imaiclouid.com)
 
 <div class="adm-block">
-    用户：admin     [控制台>>](https://dev.imaicloud.com/adm-web?user_id=admin)
+    用户：admin     [控制台\>>](https://dev.imaicloud.com/adm-web?user_id=admin)
 </div>
