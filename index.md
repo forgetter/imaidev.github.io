@@ -26,5 +26,5 @@ layout: page
 
 <div class="adm-block">
     用户：admin
-    [控制台\>>](https://dev.imaicloud.com/adm-web?user_id=admin)
+    [控制台](https://dev.imaicloud.com/adm-web?user_id=admin)
 </div>
